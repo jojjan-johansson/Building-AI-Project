@@ -28,7 +28,7 @@ Once you upload an image to your repository, you can link link to it like this (
 ![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
 
 If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+<img src="https://www.google.com/search?q=computer+picture&rlz=1C1CHZL_svSE765SE766&oq=computer+picture&aqs=chrome..69i57j0i512l3j0i22i30l5j0i15i22i30.4138j0j7&sourceid=chrome&ie=UTF-8#imgrc=oNUFCpD4_LLIlM" width="300">
 
 This is how you create code examples:
 ```
