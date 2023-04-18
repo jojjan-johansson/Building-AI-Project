@@ -46,7 +46,7 @@ main()
 ## Data sources and AI methods
 Just a picture
 
-| Johanna      | Johansson |
+| Just Text     | Text |
 | ----------- | ----------- |
 | Namn      | Efternamn       |
 | för   | japp        |
