@@ -37,22 +37,14 @@ def main():
    Tillbehör = [pommes, potatis, sallad, sås, ost]   # not actually needed in this exercise...
    Blabla data = [japp, jösses, hoho, hihi, hahaha]
 
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
-   # write your solution here
-
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
+ 
 
 main()
 ```
 
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
+Just a picture
 
 | Johanna      | Johansson |
 | ----------- | ----------- |
@@ -65,13 +57,9 @@ Understand all English
 
 ## What next?
 
-I want to become a master in AI hahahahahahha
+I want to learn Ai
 
 
 ## Acknowledgments
 
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+I want to learn
